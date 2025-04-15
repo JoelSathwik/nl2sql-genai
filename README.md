@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Install CMake
 
 Make sure you have CMake installed on your system.
@@ -42,3 +43,6 @@ streamlit run app.py
 ---------------------------------------------------------------------------------------------------------
 
 upload the schema file which is in folder data in this nl2sql-genai
+=======
+# nl2sql-genai
+>>>>>>> 30aba022ce3f31626aad6d226b9aac1a31b47709
